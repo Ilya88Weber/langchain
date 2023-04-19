@@ -1,0 +1,39 @@
+We started Bubble 10 years ago with the simple goal of enabling anyone to participate in the process of software creation, regardless of their ability to code. Since then, Bubble has evolved significantly. We’ve grown from a couple of friends and acquaintances testing our platform at a meet-up in New York to a platform serving millions of users running their businesses. Today, Bubble’s visual design language is powering everything from life-saving earthquake response apps to international enterprise agencies and the cutting edge of AI — and plenty in between.
+
+As Bubble continues to evolve and grow, what will always remain the same is our commitment to our users. You’re starting the businesses of tomorrow on Bubble today, and it’s our responsibility to ensure we're able to grow alongside you so we never stop meeting your needs. With that in mind, and after more than a year of collecting feedback and input from hundreds of customers, we’re making the following changes to Bubble’s pricing and packages:
+
+For new apps: We’re introducing a new pricing structure across all Bubble plans, effective May 1, 2023.
+For existing apps: You have the choice to either a) remain on your existing plan for up to 18 months (until October 1, 2024) with a ~10% increase starting on May 1, 2023, or b) switch over to one of the new plans (detailed below) as early as May 1, 2023.
+For agencies: All agency plans will see a ~10% per-seat price increase, effective May 1, 2023.
+At the end of the 18-month legacy period (October 1, 2024) all apps will move over to the new pricing plans. If your app is currently on a legacy plan and you would like to switch to a different legacy plan (for example, upgrade from the Personal plan to the Professional plan) or move between monthly and annual billing to lock in an annual discount, you can do so until May 1, 2023. Keep an eye on your inbox for more details about this transition.
+
+A closer look at Bubble’s new plans
+Below are the key changes reflected in Bubble’s new pricing plans:
+
+A new usage-based metric called workload, which replaces server capacity. Workload measures the work Bubble does to power your app. You can read about it in depth here, but below are a couple of key principles: 
+Performance: On the new workload-based pricing plans, most apps that were previously throttled by the capacity limit will experience improvements in speed and performance.
+Clarity: Our goal was to choose a metric with concrete inputs that you can optimize to make your app run more efficiently. Our team will release more content on best practices and ways to optimize workload usage in the coming month. We’re also hosting a live workload optimization webinar on April 20 — register here.
+Predictability: We’ve designed our pricing plans so that most apps will not need more workload than what’s included. That way, you can build without worrying about how much work your Bubble app is doing.
+Flexibility: If you need to scale up beyond the workload included in your plan, we offer additional volume discounts or pay-as-you-go overages, as well as the option to cap your total spend.
+A more generous Free plan.  Explore on Bubble and build apps with new access to version backup and database backup, plus a longer retention window for server logs.
+A new Starter plan to launch your live app. Starter comes with the features and workload you need to get your app off the ground and experiment with the limitless functionality Bubble has to offer.
+A new Growth plan for growing your user base and increasing the complexity of your app. Unlock features like two-factor authentication for improved security and custom branches to experiment and test new ideas more easily.
+A new Team plan for scaling your business with advanced features. This plan is far less expensive than our previous Production plan and enables businesses to take full advantage of sub apps, extended server log retention, and new version control features to divide and conquer work among a team of editors on Bubble.
+Significantly lower file-storage costs on the new pricing plans, because we know how important file storage can be for certain use cases.
+If you need to scale up beyond the workload included in your plan, you can either subscribe to additional, discounted workload tiers, rely on pay-as-you-go overages, or choose to cap your total spend.
+
+Looking ahead
+Throughout these changes, our core principles remain the same:
+
+Free to build, and affordable to launch. Building on Bubble is free, and we’re committed to keeping it that way. Our Free plan is the most founder-friendly, full-stack application builder out there, and it comes with enough workload to experiment and build your app. Then, as you scale, Bubble gives you the flexibility to add workload and file storage à la carte, so you can tailor your subscription to meet your application’s specific needs.
+Transparency, clarity, and visibility. As a full-stack platform, we know that for many, Bubble is your livelihood, and we don’t take that lightly. We want to make sure you have a deep understanding of how these changes will impact your business. We’ve implemented an 18-month legacy pricing period for existing customers — where the new pricing plans are available to those who wish to switch over — to give you plenty of time to get acquainted with your app’s workload usage via the new workload charts in the editor, explore the resources that we’re creating to help you understand how much workload you might need, and optimize your application.
+We’re committed to our mission of democratizing technology, and these changes will better enable us to improve our platform faster and more effectively so that we can serve you better. Some of the future investments we’re most excited about include:
+
+Overhauling the editor design and UX to maximize how quickly and efficiently you can build your app
+Providing super-fast page load for better performance and search engine optimization
+Building mobile solutions so you can create progressive web apps and App Store apps
+Enabling bulk data operations to make it easier to manipulate large databases with millions of entries
+Improving the plugin editor and marketplace to encourage plugin builders to create and maintain high-quality integrations
+Transforming our infrastructure to be low-latency across the world, and eventually allow customers on shared hosting to restrict the geographies their app is hosted from
+And so much more.
+We could not be more honored that millions of people have chosen Bubble as a partner on their journey to build impactful products and businesses. Thank you to all the customers who partnered with us in the process of developing and testing these changes. If you have more questions about pricing, please visit our pricing FAQ.
